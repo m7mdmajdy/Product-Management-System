@@ -127,13 +127,14 @@ function deleteAll(){
 
 // Update Item
 function updateItem(i){
+    console.log("asd")
     tmp=i
-    title.value.toLowerCase()=dataPros[i].title
+    title.value=dataPros[i].title
     price.value=dataPros[i].price
     taxes.value=dataPros[i].taxes
     ads.value=dataPros[i].ads
     discount.value=dataPros[i].discount
-    category.value.toLowerCase()=dataPros[i].category
+    category.value=dataPros[i].category
     count.style.display="none"
     scroll({
         top:0,
