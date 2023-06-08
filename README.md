@@ -1,22 +1,6 @@
 # Product-Management-System
-### It is an online platform that aims to let anyone hires or asks for developers, graphic designers to do a specific job online. The user can ask for a service and also can provide a service to another user
-### Features: <br>
-&emsp;&emsp;o User can offer his craft or skills.
-<br>
-&emsp;&emsp;o User, also, can reach out users who have the abilities and skills to perform his job.
-<br>
-
-&emsp;&emsp;o The platform guarantees the hired user’s rights.
-<br>
-&emsp;&emsp;o Online Payments
-<br>
-&emsp;&emsp;o Real-Time Messaging (RTM) between users.
-<br>
-&emsp;&emsp;o The jobs offered on our platform are online tasks
+### It is a product management system, as you can add products, make changes, make updates on it, delete it, also you can search for products by title or category.
 ### Technologies/Methods used: <br>
-&emsp;&emsp;o ASP.NET Web API<br>
-&emsp;&emsp;o SQL Server<br>
-&emsp;&emsp;o Entity framework and LINQ
-&emsp;&emsp;o SignalR<br>
-&emsp;&emsp;o PayPal Sandbox<br>
-&emsp;&emsp;o Angular<br>
+&emsp;&emsp;o HTML5 & CSS3<br>
+&emsp;&emsp;o Pure JavaScript<br>
+&emsp;&emsp;o Local Storage
